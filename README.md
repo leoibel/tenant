@@ -10,6 +10,6 @@
 
 ## Cara Menjalankan TailwindCSS
 
--Install `node.js` di laptop masing", lalu simpan di `PATH` supaya node.js menjadi global dan bisa dijalankan di file mana saja.  
--Jalankan `npm run watch` untuk menjalankan tailwindcss.
--Selamat mencoba.
+-   Install `node.js` di laptop masing", lalu simpan di `PATH` supaya node.js menjadi global dan bisa dijalankan di file mana saja.  
+-   Jalankan `npm run watch` untuk menjalankan tailwindcss.
+-   Selamat mencoba.
